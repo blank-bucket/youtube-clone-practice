@@ -7,9 +7,10 @@ A simple YouTube clone built with CSS3 and HTML5. It mimics the basic layout, Bu
 - Front Page View
 - Sidebar section
 - Navigation bar
+- Front Page Scetion
 
 ### Prerequisites
 - Web browser
 
 ### Preview
-- [Click Here](https://youtube-front-page-clone.netlify.app/)
+-  To view Projrct [Click Here](https://youtube-front-page-clone.netlify.app/)
