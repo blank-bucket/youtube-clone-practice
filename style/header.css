@@ -24,11 +24,12 @@ header{
 .hamburger-icon{
     display: flex;
     height: 24px;
+    margin-left: 8px;
     cursor: pointer;
 }
 
 .youtube-logo{
-    margin-left: 20px;
+    margin-left: 28px;
     display: flex;
     height: 20px;
     cursor: pointer;
